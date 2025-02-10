@@ -1,0 +1,42 @@
+{
+    "01": [
+        {
+            "type": "Deposit",
+            "amount": 500.0
+        },
+        {
+            "type": "Withdraw",
+            "amount": 200.0
+        }
+    ],
+    "02": [
+        {
+            "type": "Deposit",
+            "amount": 10000.0
+        },
+        {
+            "type": "Withdraw",
+            "amount": 3065.0
+        }
+    ],
+    "04": [
+        {
+            "type": "Deposit",
+            "amount": 700.0
+        },
+        {
+            "type": "Withdraw",
+            "amount": 100.0
+        },
+        {
+            "type": "Deposit",
+            "amount": 3000.0
+        }
+    ],
+    "05": [
+        {
+            "type": "Deposit",
+            "amount": 40000.0
+        }
+    ]
+}

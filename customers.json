@@ -1,0 +1,37 @@
+{
+    "01": {
+        "name": "bryan",
+        "email": "bryan@gmail.com",
+        "number": "123456789",
+        "password": "bry123",
+        "balance": 300.0
+    },
+    "02": {
+        "name": "ian",
+        "email": "ian@gmail.com",
+        "number": "987654321",
+        "password": "ian123",
+        "balance": 6935.0
+    },
+    "03": {
+        "name": "maricel",
+        "email": "maricel@gmail.com",
+        "number": "093416758",
+        "password": "123",
+        "balance": 0.0
+    },
+    "04": {
+        "name": "sharm",
+        "email": "sharm@gmail.com",
+        "number": "567893456",
+        "password": "sharm123",
+        "balance": 3600.0
+    },
+    "05": {
+        "name": "ivan",
+        "email": "ivan@gmail.com",
+        "number": "578930493",
+        "password": "ivan123",
+        "balance": 40000.0
+    }
+}
